@@ -87,6 +87,6 @@ If you'd like to request a new function, feel free to do so by opening an issue 
 
 ---
 
-## [License](https://github.com/goncaloperes/Project-AJAX-AddressBook/blob/master/LICENSE)
+## [License](https://github.com/goncaloperes/Project-PHP-TeamGoncaloPeres/blob/master/LICENSE)
 
 MIT © [Gonçalo Peres](https://goncaloperes.github.io)
