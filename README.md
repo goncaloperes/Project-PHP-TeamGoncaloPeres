@@ -3,8 +3,8 @@
 <table>
 <tr>
 <td>
-Forum for my team in order to share and discuss information on specific Topics.
-  Users can view the Topics but can only reply to them if they are logged in.
+Forum for my team to share and discuss information on specific Topics.
+  All Users can view the Topics but only Team members can reply to them.
   Built in PHP, it has a PDO database class and 4 more classes: Template, Topics, Users, Validator (for form validation)
   The User Interface is responsive and it was build using the Bootstrap Framework.
 </td>
