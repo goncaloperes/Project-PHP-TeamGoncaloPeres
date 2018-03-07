@@ -1,4 +1,7 @@
 # [Team Gonçalo Peres Forum](https://github.com/goncaloperes/Project-PHP-TeamGoncaloPeres)
+![](https://img.shields.io/badge/Version-1.0-blue.svg) 
+![](https://img.shields.io/badge/License-MIT-green.svg)
+
 
 <table>
 <tr>
@@ -10,9 +13,6 @@ Forum for my team to share and discuss information on specific Topics.
 </td>
 </tr>
 </table>
-
-### Version
-1.0
 
 
 ---
